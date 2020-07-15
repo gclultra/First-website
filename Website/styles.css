@@ -1,3 +1,9 @@
+body, ul, li, h1, h2 a{
+    margin:0;
+    padding: 0;
+    font-family: Arial;
+}
+
 h1{
     text-align: center;
     background-color: royalblue;
@@ -14,4 +20,19 @@ h2{
     margin: 0px;
     width: 100%;
     color: white;
+}
+
+.about{
+    color: royalblue;
+    font-weight: bold;
+}
+
+.contact{
+    color: royalblue;
+    font-weight: bold;
+}
+
+.signup{
+    color: royalblue;
+    font-weight: bold;
 }
