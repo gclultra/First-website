@@ -10,8 +10,9 @@ h1{
 
 h2{
     text-align: center;
-    background-color: rebeccapurple;
+    background-color: royalblue;
     padding 0em;
     margin: 0px;
     width: 100%;
+    color: white;
 }
