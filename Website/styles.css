@@ -1,8 +1,17 @@
 h1{
-    background-color: red;
-    font-size: 1.5em;
-    padding: 1em;
+    text-align: center;
+    background-color: royalblue;
+    padding: 1.2em;
+    margin: 0px;
+    color: white;
+    position: sticky;
+    width: 100%;
 }
-.img{
-    padding-left: 2em;
+
+h2{
+    text-align: center;
+    background-color: rebeccapurple;
+    padding 0em;
+    margin: 0px;
+    width: 100%;
 }
